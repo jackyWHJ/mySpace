@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:47105a18afac82c95351f2051ee4f1a6:3056b6da070d419bc20c30611beaef3b:220ae7d70bce22a5bf8dfce2b3e21c87$ -->
+<TextureAtlas imagePath="bird.png">
+    <SubTexture name="bg_0" x="292" y="2" width="288" height="512"/>
+    <SubTexture name="bg_1" x="2" y="2" width="288" height="512"/>
+    <SubTexture name="big_0" x="233" y="873" width="24" height="36"/>
+    <SubTexture name="big_1" x="233" y="911" width="16" height="36"/>
+    <SubTexture name="big_2" x="274" y="727" width="24" height="36"/>
+    <SubTexture name="big_3" x="240" y="795" width="24" height="36"/>
+    <SubTexture name="big_4" x="233" y="835" width="24" height="36"/>
+    <SubTexture name="big_5" x="214" y="797" width="24" height="36"/>
+    <SubTexture name="big_6" x="188" y="797" width="24" height="36"/>
+    <SubTexture name="big_7" x="162" y="797" width="24" height="36"/>
+    <SubTexture name="big_8" x="136" y="797" width="24" height="36"/>
+    <SubTexture name="big_9" x="110" y="797" width="24" height="36"/>
+    <SubTexture name="bird_blue_1" x="331" y="863" width="34" height="24"/>
+    <SubTexture name="bird_blue_2" x="295" y="863" width="34" height="24"/>
+    <SubTexture name="bird_blue_3" x="259" y="863" width="34" height="24"/>
+    <SubTexture name="bird_hero1" x="354" y="681" width="34" height="24"/>
+    <SubTexture name="bird_hero2" x="336" y="707" width="34" height="24"/>
+    <SubTexture name="bird_hero3" x="318" y="681" width="34" height="24"/>
+    <SubTexture name="bird_yellow_1" x="312" y="753" width="34" height="24"/>
+    <SubTexture name="bird_yellow_2" x="300" y="727" width="34" height="24"/>
+    <SubTexture name="bird_yellow_3" x="276" y="765" width="34" height="24"/>
+    <SubTexture name="copper_medal" x="272" y="681" width="44" height="44"/>
+    <SubTexture name="game_over" x="226" y="630" width="200" height="49"/>
+    <SubTexture name="get_ready" x="118" y="958" width="195" height="55"/>
+    <SubTexture name="gold_medal" x="228" y="727" width="44" height="44"/>
+    <SubTexture name="green_down" x="56" y="516" width="52" height="320"/>
+    <SubTexture name="green_top" x="2" y="516" width="52" height="320"/>
+    <SubTexture name="ground" x="110" y="516" width="336" height="112"/>
+    <SubTexture name="menu" x="266" y="795" width="80" height="28"/>
+    <SubTexture name="new" x="251" y="941" width="32" height="14"/>
+    <SubTexture name="ok" x="259" y="833" width="80" height="28"/>
+    <SubTexture name="rank" x="110" y="730" width="116" height="65"/>
+    <SubTexture name="result_panel" x="2" y="838" width="229" height="118"/>
+    <SubTexture name="run" x="2" y="958" width="114" height="63"/>
+    <SubTexture name="share" x="251" y="911" width="80" height="28"/>
+    <SubTexture name="silver_medal" x="226" y="681" width="44" height="44"/>
+    <SubTexture name="small_0" x="341" y="825" width="14" height="20"/>
+    <SubTexture name="small_1" x="315" y="941" width="10" height="20"/>
+    <SubTexture name="small_2" x="323" y="889" width="14" height="20"/>
+    <SubTexture name="small_3" x="307" y="889" width="14" height="20"/>
+    <SubTexture name="small_4" x="291" y="889" width="14" height="20"/>
+    <SubTexture name="small_5" x="275" y="889" width="14" height="20"/>
+    <SubTexture name="small_6" x="259" y="889" width="14" height="20"/>
+    <SubTexture name="small_7" x="260" y="773" width="14" height="20"/>
+    <SubTexture name="small_8" x="244" y="773" width="14" height="20"/>
+    <SubTexture name="small_9" x="228" y="773" width="14" height="20"/>
+    <SubTexture name="tap_begin" x="110" y="630" width="114" height="98"/>
+</TextureAtlas>
