@@ -27,12 +27,12 @@ package
 	 * @haojie.wang
 	 * @date 2014-4-14
 	 */
-	public class FlappyBird extends Sprite
+	public class FlappyBird2 extends Sprite
 	{
 		private var startling:Starling;
 		
 		private var loader:URLLoader;
-		public function FlappyBird()
+		public function FlappyBird2()
 		{
 			super();
 			loadSetting();
